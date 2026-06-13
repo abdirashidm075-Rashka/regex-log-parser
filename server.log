@@ -1,0 +1,7 @@
+2026-06-12 10:01:22 INFO: User 'admin' logged in successfully from 192.168.1.50
+2026-06-12 10:02:15 FAILED: Invalid password for user 'root' from 10.0.0.4
+2026-06-12 10:02:18 FAILED: Invalid password for user 'root' from 10.0.0.4
+2026-06-12 10:02:22 FAILED: Invalid password for user 'root' from 10.0.0.4
+2026-06-12 10:05:40 INFO: User 'ian' logged in successfully from 192.168.1.12
+2026-06-12 10:12:01 FAILED: Invalid password for user 'guest' from 172.16.5.99
+2026-06-12 10:12:05 FAILED: Invalid password for user 'guest' from 172.16.5.99
